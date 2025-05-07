@@ -13,10 +13,10 @@ Our survey paper: [Sailing AI by the Stars: A Survey of Learning from Rewards in
 
 
 <p align="center">
-  <img src="./img/scaling.png" width="400"/>
-  <br/><em>Figure 1: Post-training and test-time scaling overview.</em><br/><br/>
+  <img src="./img/scaling.png" width="60%"/>
+  <br/><em>Figure 1: Scaling phases of LLMs.</em><br/><br/>
   <br/>
-  <img src="./img/framework.png" width="500"/>
+  <img src="./img/framework.png" width="80%"/>
   <br/><em>Figure 2: Conceptual framework of learning from rewards.</em>
 </p>
 
