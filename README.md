@@ -2,7 +2,7 @@
 
 [![stars](https://img.shields.io/github/stars/bobxwu/learning-from-rewards-llm-papers?logo=github)](https://github.com/bobxwu/learning-from-rewards-llm-papers)
 [![arXiv](https://img.shields.io/badge/arXiv-2405.17978-<COLOR>.svg)](https://arxiv.org/pdf/2505.02686)
-[![LICENSE](https://img.shields.io/github/license/bobxwu/learning-from-rewards-llm-papers)](https://www.apache.org/licenses/LICENSE-2.0/)
+[![LICENSE](https://img.shields.io/github/license/bobxwu/learning-from-rewards-llm-papers?label=License&color=blue)](https://opensource.org/licenses/MIT)
 [![Contributors](https://img.shields.io/github/contributors/bobxwu/learning-from-rewards-llm-papers)](https://github.com/bobxwu/learning-from-rewards-llm-papers/graphs/contributors/)
 
 
