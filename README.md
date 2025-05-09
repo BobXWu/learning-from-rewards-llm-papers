@@ -99,6 +99,8 @@ Our survey paper: [Sailing AI by the Stars: A Survey of Learning from Rewards in
 
 - **REINFORCE++: A Simple and Efficient Approach for Aligning Large Language Models**. arXiv, 2025. [paper](https://arxiv.org/pdf/2501.03262)
 
+- **Learning to Reason under Off-Policy Guidance**. arxiv, 2025. [paper](https://arxiv.org/abs/2504.14945)
+
 
 ### [Training with Critique Rewards]()
 - **Judging llm-as-a-judge with mt-bench and chatbot arena**. arXiv, 2023. [paper](https://arxiv.org/pdf/2306.05685)
@@ -360,6 +362,7 @@ Our survey paper: [Sailing AI by the Stars: A Survey of Learning from Rewards in
 
 - **Teaching Language Models to Critique via Reinforcement Learning**. arXiv, 2025. [paper](https://arxiv.org/pdf/2502.03492)
 
+- **Test-Time Preference Optimization: On-the-Fly Alignment via Iterative Textual Feedback**. arXiv, 2025. [paper](https://arxiv.org/pdf/2501.12895)
 
 
 ## 📏Benchmarking Reward Models
@@ -377,6 +380,7 @@ Our survey paper: [Sailing AI by the Stars: A Survey of Learning from Rewards in
 
 - **RMB: Comprehensively Benchmarking Reward Models in LLM Alignment**. arXiv, 2024. [paper](https://arxiv.org/pdf/2410.09893)
 
+- **Evaluating Judges as Evaluators: The JETTS Benchmark of LLM-as-Judges as Test-Time Scaling Evaluators**. arxiv, 2025. [paper](https://arxiv.org/pdf/2504.15253)
 
 ### [Benchmarking Process Reward Models]()
 - **Training verifiers to solve math word problems**. arXiv, 2021. [paper](https://arxiv.org/pdf/2110.14168)
