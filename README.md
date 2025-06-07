@@ -295,6 +295,7 @@ Our survey paper: [Sailing AI by the Stars: A Survey of Learning from Rewards in
 
 - **Towards Cost-Effective Reward Guided Text Generation**. arXiv, 2025. [paper](https://arxiv.org/pdf/2502.04517)
 
+- **AlphaOne: Reasoning Models Thinking Slow and Fast at Test Time**. arXiv, 2025. [paper](https://arxiv.org/pdf/2505.24863)
 
 
 ## 🎯Post-Inference with Rewards
