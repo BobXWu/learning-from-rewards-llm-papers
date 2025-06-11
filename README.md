@@ -238,6 +238,7 @@ Our survey paper: [Sailing AI by the Stars: A Survey of Learning from Rewards in
 
 - **GenPRM: Scaling Test-Time Compute of Process Reward Models via Generative Reasoning**. arXiv, 2025. [paper](https://arxiv.org/pdf/2504.00891)
 
+- **SCOPE: Compress Mathematical Reasoning Steps for Efficient Automated Process Annotation**. arXiv, 2025. [paper](https://arxiv.org/pdf/2505.14419)
 
 
 ## 🎯Inference with Rewards
@@ -686,6 +687,6 @@ If you are interested in our survey paper, please cite it as
     author   = {Wu, Xiaobao},
     year     = 2025,
     journal  = {arXiv preprint arXiv:2505.02686},
-    url      = {https://arxiv.org/abs/2505.02686}
+    url      = {https://arxiv.org/pdf/2505.02686}
 }
 ```
