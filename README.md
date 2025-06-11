@@ -99,7 +99,10 @@ Our survey paper: [Sailing AI by the Stars: A Survey of Learning from Rewards in
 
 - **REINFORCE++: A Simple and Efficient Approach for Aligning Large Language Models**. arXiv, 2025. [paper](https://arxiv.org/pdf/2501.03262)
 
-- **Learning to Reason under Off-Policy Guidance**. arxiv, 2025. [paper](https://arxiv.org/abs/2504.14945)
+- **Learning to Reason under Off-Policy Guidance**. arxiv, 2025. [paper](https://arxiv.org/pdf/2504.14945)
+
+- **VinePPO Refining Credit Assignment in RL Training of LLMs**. arXiv, 2025. [paper](https://arxiv.org/pdf/2410.01679)
+
 
 
 ### [Training with Critique Rewards]()
@@ -205,6 +208,8 @@ Our survey paper: [Sailing AI by the Stars: A Survey of Learning from Rewards in
 - **Right Question is Already Half the Answer: Fully Unsupervised LLM Reasoning Incentivization**. arXiv, 2025. [paper](https://arxiv.org/pdf/2504.05812)
 
 - **TTRL: Test-Time Reinforcement Learning**. arXiv, 2025. [paper](https://arxiv.org/pdf/2504.16084)
+
+- **Spurious Rewards Rethinking Training Signals in RLVR**. arXiv, 2025. [paper](https://github.com/ruixin31/Rethink_RLVR)
 
 
 
