@@ -1,4 +1,4 @@
-# 📚Learning-from-Rewards LLM Papers
+# 📚Awesome-Learning-from-Rewards-Papers
 
 [![stars](https://img.shields.io/github/stars/bobxwu/learning-from-rewards-llm-papers?logo=github)](https://github.com/bobxwu/learning-from-rewards-llm-papers)
 [![arXiv](https://img.shields.io/badge/arXiv-2405.17978-<COLOR>.svg)](https://arxiv.org/pdf/2505.02686)
@@ -6,10 +6,13 @@
 [![Contributors](https://img.shields.io/github/contributors/bobxwu/learning-from-rewards-llm-papers)](https://github.com/bobxwu/learning-from-rewards-llm-papers/graphs/contributors/)
 
 
-This repository collects research papers on *learning from rewards* in the context of post-training and test-time scaling of large language models (LLMs).
 
+This repository accompanies our survey paper:  
+[Sailing AI by the Stars: A Survey of Learning from Rewards in Post-Training and Test-Time Scaling of Large Language Models](https://arxiv.org/pdf/2505.02686).
 
-Our survey paper: [Sailing AI by the Stars: A Survey of Learning from Rewards in Post-Training and Test-Time Scaling of Large Language Models](https://arxiv.org/pdf/2505.02686).
+We curate a comrephensive collection of **learning from rewards** in the post-training and test-time scaling of LLMs, with a focus on both **reward models** and **learning strategies** across training, inference, and post-inference stages.  
+We welcome contributions from the community, so feel free to open issues or submit pull requests!
+
 
 
 <p align="center">
@@ -21,10 +24,11 @@ Our survey paper: [Sailing AI by the Stars: A Survey of Learning from Rewards in
 </p>
 
 
-- [📚Learning-from-Rewards LLM Papers](#learning-from-rewards-llm-papers)
+- [📚Awesome-Learning-from-Rewards-Papers](#awesome-learning-from-rewards-papers)
   - [🎯Training with Rewards](#training-with-rewards)
     - [Training with Scalar Rewards](#training-with-scalar-rewards)
     - [Training with Critique Rewards](#training-with-critique-rewards)
+    - [Training with Hybrid Rewards](#training-with-hybrid-rewards)
     - [Training with Implicit Rewards](#training-with-implicit-rewards)
     - [Training with Rule-based Rewards](#training-with-rule-based-rewards)
     - [Training with Process Rewards](#training-with-process-rewards)
@@ -99,7 +103,7 @@ Our survey paper: [Sailing AI by the Stars: A Survey of Learning from Rewards in
 
 - **REINFORCE++: A Simple and Efficient Approach for Aligning Large Language Models**. arXiv, 2025. [paper](https://arxiv.org/pdf/2501.03262)
 
-- **Learning to Reason under Off-Policy Guidance**. arxiv, 2025. [paper](https://arxiv.org/pdf/2504.14945)
+- **Learning to Reason under Off-Policy Guidance**. arXiv, 2025. [paper](https://arxiv.org/pdf/2504.14945)
 
 - **VinePPO Refining Credit Assignment in RL Training of LLMs**. arXiv, 2025. [paper](https://arxiv.org/pdf/2410.01679)
 
@@ -128,9 +132,14 @@ Our survey paper: [Sailing AI by the Stars: A Survey of Learning from Rewards in
 
 - **Inference-Time Scaling for Generalist Reward Modeling**. arXiv, 2025. [paper](https://arxiv.org/pdf/2504.02495)
 
+
+### [Training with Hybrid Rewards]()
+
 - **Mm-rlhf: The next step forward in multimodal llm alignment**. arXiv, 2025. [paper](https://arxiv.org/pdf/2502.10391)
 
 - **Improve LLM-as-a-Judge Ability as a General Ability**. arXiv, 2025. [paper](https://arxiv.org/pdf/2502.11689)
+
+- **Critique-GRPO: Advancing LLM Reasoning with Natural Language and Numerical Feedback**. arXiv, 2025. [paper](https://www.arxiv.org/pdf/2506.03106)
 
 
 ### [Training with Implicit Rewards]()
@@ -315,7 +324,7 @@ Our survey paper: [Sailing AI by the Stars: A Survey of Learning from Rewards in
 
 - **Training language models to self-correct via reinforcement learning**. arXiv, 2024. [paper](https://arxiv.org/pdf/2409.12917)
 
-- **Recursive introspection: Teaching language model agents how to self-improve**. arxiv, 2024. [paper](https://proceedings.neurips.cc/paper_files/paper/2024/file/639d992f819c2b40387d4d5170b8ffd7-Paper-Conference.pdf)
+- **Recursive introspection: Teaching language model agents how to self-improve**. arXiv, 2024. [paper](https://proceedings.neurips.cc/paper_files/paper/2024/file/639d992f819c2b40387d4d5170b8ffd7-Paper-Conference.pdf)
 
 - **Reward Is Enough LLMs Are In-Context Reinforcement Learners**. arXiv, 2025. [paper](https://arxiv.org/pdf/2506.06303)
 
@@ -389,7 +398,7 @@ Our survey paper: [Sailing AI by the Stars: A Survey of Learning from Rewards in
 
 - **RMB: Comprehensively Benchmarking Reward Models in LLM Alignment**. arXiv, 2024. [paper](https://arxiv.org/pdf/2410.09893)
 
-- **Evaluating Judges as Evaluators: The JETTS Benchmark of LLM-as-Judges as Test-Time Scaling Evaluators**. arxiv, 2025. [paper](https://arxiv.org/pdf/2504.15253)
+- **Evaluating Judges as Evaluators: The JETTS Benchmark of LLM-as-Judges as Test-Time Scaling Evaluators**. arXiv, 2025. [paper](https://arxiv.org/pdf/2504.15253)
 
 ### [Benchmarking Process Reward Models]()
 - **Training verifiers to solve math word problems**. arXiv, 2021. [paper](https://arxiv.org/pdf/2110.14168)
