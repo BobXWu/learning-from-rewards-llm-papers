@@ -316,6 +316,8 @@ Our survey paper: [Sailing AI by the Stars: A Survey of Learning from Rewards in
 
 - **Recursive introspection: Teaching language model agents how to self-improve**. arxiv, 2024. [paper](https://proceedings.neurips.cc/paper_files/paper/2024/file/639d992f819c2b40387d4d5170b8ffd7-Paper-Conference.pdf)
 
+- **Reward Is Enough LLMs Are In-Context Reinforcement Learners**. arXiv, 2025. [paper](https://arxiv.org/pdf/2506.06303)
+
 
 ### [Correction with External Feedback]()
 - **Rarr: Researching and revising what language models say, using language models**. arXiv, 2022. [paper](https://arxiv.org/pdf/2210.08726)
