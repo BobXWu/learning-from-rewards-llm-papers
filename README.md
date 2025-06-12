@@ -132,6 +132,9 @@ We welcome contributions from the community, so feel free to open issues or subm
 
 - **Inference-Time Scaling for Generalist Reward Modeling**. arXiv, 2025. [paper](https://arxiv.org/pdf/2504.02495)
 
+- **Think-J: Learning to Think for Generative LLM-as-a-Judge**. arXiv, 2025. [paper](https://arxiv.org/pdf/2505.14268)
+
+- **Unified multimodal chain-of-thought reward model through reinforcement fine-tuning**. arXiv, 2025. [paper](https://arxiv.org/pdf/2505.03318)
 
 ### [Training with Hybrid Rewards]()
 
