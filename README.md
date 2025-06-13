@@ -8,10 +8,10 @@
 
 
 This repository accompanies our survey paper:  
-[Sailing AI by the Stars: A Survey of Learning from Rewards in Post-Training and Test-Time Scaling of Large Language Models](https://arxiv.org/pdf/2505.02686).
+[**Sailing by the Stars: A Survey on Reward Models and Learning Strategies for Learning from Rewards**](https://arxiv.org/pdf/2505.02686).  
+We curate a comrephensive collection of **learning from rewards** in the post-training and test-time scaling of LLMs, with a focus on both **reward models** and **learning strategies** across training, inference, and post-inference stages.
 
-We curate a comrephensive collection of **learning from rewards** in the post-training and test-time scaling of LLMs, with a focus on both **reward models** and **learning strategies** across training, inference, and post-inference stages.  
-We welcome contributions from the community, so feel free to open issues or submit pull requests!
+We welcome contributions from the community, so feel free to submit pull requests to add missing papers!
 
 
 
